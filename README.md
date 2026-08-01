@@ -41,7 +41,7 @@
 const hyeonseo = {
   code: ["C", "C++", "Python"],
 
-  platforms: ["STM32", "ESP32", "Raspberry Pi"],
+  platforms: ["STM32", "ESP32", "Raspberry Pi", "Arduino"],
 
   systems: ["FreeRTOS", "Embedded Linux", "ROS 2"],
 
