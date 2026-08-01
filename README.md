@@ -1,27 +1,78 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hello%20world!&animation=fadeIn&fontColor=ffffff&fontSize=50" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 Hi, I'm Hyeonseo An </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> I am a junior majoring in Software Convergence at Kyung Hee University.</li></li>    <li> I am exploring the full embedded software stack, from MCU firmware and BSPs to the Linux kernel, device drivers, system services, middleware, and applications.</li></li><li> I serve as Vice President of HYPER, a robotics and computer vision club at Kyung Hee University. </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-          </div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=instagram.com/hyeo_n_seo_> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=instagram.com/hyeo_n_seo_"> </a>
-         <a href=https://app.notion.com/p/2cf1b8b306cd801da8b5ca056f35ec30?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://app.notion.com/p/2cf1b8b306cd801da8b5ca056f35ec30?source=copy_link"> </a>
-         <a href=mailto:jack6265@khu.ac.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jack6265@khu.ac.kr"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    
+<h2>
+  Hi, I'm Hyeonseo An!
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45" alt="Hello">
+</h2>
+
+<img
+align="right"
+src="./assets/pixel-robot.png"
+width="220"
+alt="Cute pixel robot"
+/>
+
+<p>
+  <em>
+    Software Convergence Student at
+    <a href="https://www.khu.ac.kr">Kyung Hee University</a><br>
+    Building embedded software for robotics and automotive projects.<br>
+    Vice President of <b>HYPER</b>, a robotics and computer vision club.
+  </em>
+</p>
+
+<a href="mailto:jack6265@khu.ac.kr">
+  <img src="https://img.shields.io/badge/Email-jack6265%40khu.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://www.instagram.com/hyeo_n_seo_/">
+  <img src="https://img.shields.io/badge/Instagram-@hyeo__n__seo__-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://app.notion.com/p/2cf1b8b306cd801da8b5ca056f35ec30?source=copy_link">
+  <img src="https://img.shields.io/badge/Notion-Portfolio-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion portfolio">
+</a>
+
+<br clear="right">
+
+About Me
+
+const hyeonseo = {
+  code: ["C", "C++", "Python"],
+
+  platforms: ["STM32", "ESP32", "Raspberry Pi"],
+
+  systems: ["FreeRTOS", "Embedded Linux", "ROS 2"],
+
+  simulation: ["Isaac Sim"],
+
+  focus: ["MCU Firmware", "Embedded Linux"],
+
+  currentlyLearning: {
+    language: "Rust",
+    embeddedLinux: [
+      "Yocto",
+      "Linux Device Drivers",
+      "Bootloaders",
+      "Device Tree"
+    ]
+  },
+
+  currentGoal:
+    "Exploring the embedded software stack from MCU firmware to Embedded Linux"
+};
+
+<imgsrc="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"width="55"alt="Wave"
+
+
+
+<em><b>I learn by building systems, breaking them, and figuring out why.</b></em>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Anhyeonseo&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000"
+    height="165"
+    alt="Hyeonseo's GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anhyeonseo&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000"
+    height="165"
+    alt="Top languages"
+  />
+</p>
