@@ -41,11 +41,11 @@
 const hyeonseo = {
   code: ["C", "C++", "Python"],
 
-  platforms: ["STM32", "ESP32", "Raspberry Pi", "Arduino"],
+  platforms: ["STM32", "ESP32", "Raspberry Pi", "Arduino", "Jetson"],
 
   systems: ["FreeRTOS", "Embedded Linux", "ROS 2"],
 
-  simulation: ["Isaac Sim"],
+  simulation: ["Isaac Sim", "Isaac Lab", "Gazebo"],
 
   focus: ["MCU Firmware", "Embedded Linux"],
 
@@ -55,7 +55,12 @@ const hyeonseo = {
       "Yocto",
       "Linux Device Drivers",
       "Bootloaders",
-      "Device Tree"
+      "Device Tree",
+      "On-Device Ai"
+    ]
+    Project: [
+      "Dual-Arm-Manipulation",
+      "Quadruped Robot"
     ]
   },
 
