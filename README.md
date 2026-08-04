@@ -28,7 +28,7 @@
     alt="Instagram"
   />
 </a>
-<a href="https://app.notion.com/p/2cf1b8b306cd801da8b5ca056f35ec30?source=copy_link">
+<a href="https://app.notion.com/p/bfd1b8b306cd834da19b81b4df51a7f8?source=copy_link">
   <img
     src="https://img.shields.io/badge/Notion-Portfolio-000000?style=flat-square&logo=notion&logoColor=white"
     alt="Notion Portfolio"
